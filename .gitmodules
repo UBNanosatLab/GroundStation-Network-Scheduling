@@ -1,0 +1,3 @@
+[submodule "python-sgp4"]
+	path = python-sgp4
+	url = git@github.com:brandon-rhodes/python-sgp4.git
